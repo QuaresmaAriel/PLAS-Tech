@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.firebase/
+.vscode/
+js/firebase-config.js
+# Não ignorar o exemplo
+!js/firebase-config.js.exemplo.txt
