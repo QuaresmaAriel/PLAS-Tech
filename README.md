@@ -1,6 +1,6 @@
 # 🚀 PLAS Tech - Sistema de Gestão de Ordens de Serviço
 
-O **PLAS Tech** é uma solução completa para o gerenciamento de fluxos de trabalho em assistências técnicas e escritórios administrativos. Desenvolvido com foco em performance e experiência do usuário (UX), o sistema permite o controle total de ordens de serviço, agendamentos e tarefas particulares.
+O **PLAS Tech** é uma solução completa para o gerenciamento de fluxos de trabalho em assistências técnicas. Desenvolvido com foco em performance e experiência do usuário (UX), o sistema permite o controle total de ordens de serviço, agendamentos e tarefas particulares.
 
 ---
 
